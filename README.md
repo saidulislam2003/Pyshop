@@ -1,7 +1,5 @@
 # Pyshop - Django Product Catalog
 
-![Project Screenshot](image.png)
-
 A simple product catalog system built with Django.
 
 ## Features
@@ -101,18 +99,5 @@ Pyshop/
 
 ## License
 MIT License - see [LICENSE](LICENSE) for details
-```
 
-Key changes made:
-1. Removed references to multiple apps
-2. Simplified features list to match your current implementation
-3. Updated project structure to reflect single-app architecture
-4. Added specific instructions for adding products through admin
-5. Included usage instructions based on your screenshot
-6. Simplified the access URLs
 
-You might want to:
-1. Add actual screenshots to a screenshots/ directory
-2. Update the "Add to Cart" functionality section if it's not fully implemented
-3. Add cart/checkout instructions when those features are ready
-4. Include any special requirements for running the project (if you have database requirements beyond SQLite)
